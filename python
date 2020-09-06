@@ -1,0 +1,7 @@
+sudo add-apt-repository ppa:deadsnakes/ppa
+sudo apt-get update -y
+sudo apt-get install python3.7 -y
+sudo apt install python3-pip -y
+echo "alias python=python3" >> ~/.bash_aliases
+source ~/.bash_aliases
+echo "alias pip=pip3" >> ~/.bash_aliases

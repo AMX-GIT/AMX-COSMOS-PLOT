@@ -1,0 +1,6 @@
+sh update
+sh git
+sh curl
+sh snap
+sh python
+sh docker
